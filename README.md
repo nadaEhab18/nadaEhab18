@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nada Ehab</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate Data Engineer from Egypt</h3>
 <img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaehab&label=Profile%20views&color=0e75b6&style=flat" alt="nadaehab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nehab7947" target="blank"><img src="https://img.shields.io/twitter/follow/nehab7947?logo=twitter&style=for-the-badge" alt="nehab7947" /></a> </p>
 
-- 🌱 I’m currently learning **FLUTTER Development**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **anything**
 
